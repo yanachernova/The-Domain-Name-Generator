@@ -1,4 +1,4 @@
-# Hello World with Van
+# Hello World with Vani
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
 
